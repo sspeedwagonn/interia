@@ -14,11 +14,11 @@ const Stats = () => {
         </div>
       </div>
         <div className=' w-[229px] absolute -bottom-3 right-[120px]'>
-          <button className='border-[1px] border-[#6D7D7D] rounded-[100px] px-[14px] text-white text-[12px]'><span className='tracking-[0.4em] font-light leading-[23.92px]'>LEARN ABOU</span>T</button>
+          <button className='hover:bg-[#6D7D7D] border-[1px] border-[#6D7D7D] rounded-[100px] px-[14px] text-white text-[12px]'><span className='tracking-[0.4em] font-light leading-[23.92px]'>LEARN ABOU</span>T</button>
         </div>
           
-        <div className='bg-purple-200 inline-grid grid-flow-row'>
-          <div className='bg-red-100 w-[130px] h-[110px]'>
+        <div className='inline-grid grid-flow-row items-center'>
+          <div className=' w-[130px] h-[110px]'>
             <h4 className='text-[#6D7D7D] text-[40px]'>2k+</h4>
             <p className='whitespace-normal mr-[440px] text-white text-[16px] tracking-[0.4em]'>Projects done</p>
           </div>
